@@ -1,0 +1,162 @@
+#+STARTUP: showall
+#+TITLE: Ergonomic Keyboards
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "ergo_menu.org"
+Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]]
++ Most membrane keyswitches are rated between 60 and 80 grams [1]
+
+[1] [[http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html][Comparing Mechanical, Membrane and Scissor-Switch Membrane Keyboards - Ergonomic Considerations of Keyswitch Type]]
+
+* Keyboard Discussions
++ [[http://esr.ibiblio.org/?p=4975%E2%80%8E][Keyboards are not a Detail]]
++ http://www.reddit.com/r/MechanicalKeyboards/wiki/buying_guide
++ http://www.mechkb.com
++ http://mkweb.bcgsc.ca/carpalx
++ http://pqrs.org/osx/karabiner/seil.html.en
++ [[http://www.reddit.com/r/keyboards/comments/itsgo/mechanical_keyboards_and_rsi_whats_the_story/][Mechanical Keyboards and RSI, what's the story?]]
++ http://www.keyboardlover.com
++  [[http://www.overclock.net/t/491752/official-mechanical-keyboard-guide][Official: Mechanical Keyboard Guide]]
++ http://lumberjack.hubpages.com/hub/Ergonomic-Mechanical-Keyboards-What-Switch-Type-Is-Best-For-Carpal-Tunnel
++ https://geekhack.org/index.php?topic=18306.0
++ [[http://xahlee.info/kbd/keyboard_problems.html][Computer Keyboard Design Flaws]]
+
+* Mechanical Switches
+** General
++ http://xahlee.info/kbd/keyboard_switch_mechanisms.html
++ http://www.pcper.com/reviews/General-Tech/Mechanical-Keyboard-Switches-Explained-and-Compared
++ http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html
+** MX Cherry
++ http://superuser.com/questions/366221/differences-between-cherry-mechanical-keyboard-switches
+** Matias
+** Topre
+ - http://deskthority.net/wiki/Topre_switch
+
+* Keyboards
++ http://octodon.mobi/#/en/home - For phones and tablets
+
++ CODE  keyboard 
+ - http://codekeyboards.com
+ - http://news.ycombinator.com/item?id=9289634
++ DataHand
+ - http://octopup.org/computer/datahand
++ Dodohand - Open source project to recreate the DataHand
+ - [[https://geekhack.org/index.php?topic=41422.0][Geekhack Board]]
+ - [[https://github.com/dodohand/dodohand?files=1][Github Repo]]
++ ErgoDox
+ - [[http://youtu.be/CZ5qWBOG8Oo][Video Review]]
+ - [[http://www.anandtech.com/show/7245/ergodox-review-an-ergonomic-mechanical-keyboard-via-massdrop][ErgoDox Review, an Ergonomic Mechanical Keyboard via Massdrop]]
+ - [[http://jjt.io/2013/11/25/why-any-developer-should-check-out-the-ergodox-keyboard/][The ErgoDox keyboard a year in, and why you should get one]]
+ - [[http://gist.github.com/datagrok/8130501][My ErgoDox Keyboard]]
++ Filco Majestic 2
+ - http://www.cultofmac.com/271485/hacking-filcos-tenkeyless-majestouch-2-work-mac-review
++ http://ergocanada.com/ec_home/products/keyboards.html
++ [[http://geekhack.org/index.php?topic=47098.0][Which cherry MX switches are best for fingers?]]
++ [[http://www.amazon.com/Fingerworks-TOUCHSTREAMLP-TouchStream-LP-QWERTY/dp/B0001597YO/ref=cm_cr_pr_product_top][TouchStream LP QWERTY]]
++ http://robots.thoughtbot.com/why-you-should-use-a-mechanical-keyboard
++ [[https://news.ycombinator.com/item?id=6891893][Prototype ergonomic mechanical keyboards]]
++ [[https://news.ycombinator.com/item?id=2855912][The Kinesis Advantage, Unicomp Space Saver, and Das Keyboard, two years later]]
++ [[http://patorjk.com/keyboard-layout-analyzer/#/main][Keyboard Layout Analyzer]]
++ [[http://www.overclock.net/t/491752/official-mechanical-keyboard-guide][Overclock's Comprehensive Mechanical Keyboard Guide]]
++ http://www.cmuniversity.net/switches.php
++ [[http://www.keyboard.io][Keyboardio]]
++ [[http://en.m.wikipedia.org/wiki/FrogPad][FrogPad]]
++ WASD
+ - [[http://www.wasdkeyboards.com/mechanical-keyboard-guide][WASD Mechanical Keyboard Guide]] - video
++ [[http://www.amazon.com/iGrip-Ergonomic-Keyboard-by-AlphaGrip/dp/B000O8AOO0][AlphaGrip]]
+ - [[http://allthingsergo.com/blog/reviews/alphagrip-review-igrip/][AlphaGrip Review (iGrip)]]
+ - http://www.reddit.com/r/MechanicalKeyboards/comments/2uixln/a_coworker_who_knows_im_into_mechs_gave_me_the
+ - http://www.reddit.com/r/MechanicalKeyboards/comments/2yfb7e/photos_alphagrip_igrip_teardown_rebuild_video_in
+ - http://www.alphagrips.com
++ [[http://www.artlebedev.com/everything/optimus/maximus][Optimus Maximus]]
++ Kinesis
+ - [[http://www.anandtech.com/show/7125/kinesis-advantage-review-longterm-evaluation][Kinesis Advantage Review: Long-Term Evaluation]]
++ Logitech
+ - [[http://www.engadget.com/products/logitech/g710-plus/][G710+]]
++ Matias
+ - http://xahlee.info/kbd/keyboard_matias_mini_tactile_pro_keyboard.html
+ - http://www.keyboardco.com/blog/index.php/2015/03/matias-ergo-pro-review-my-new-favourite-ergonomic-keyboard
+ - http://www.marco.org/2015/02/26/matis-ergo-pro-review
++ TEK
+ - [[http://www.anandtech.com/show/6819/truly-ergonomic-computer-keyboard-review-one-month-with-the-teck][Truly Ergonomic Computer Keyboard Review: One Month with the TECK]]
+ - http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard
++ Thermaltake Poseiden Z
+  - [[http://community.thermaltake.com/index.php?/topic/1396-poseidon-z-driver-for-mac-os-x-1010][Mac Driver]]
+  - [[http://www.alexandersundiev.com/guide-convert-a-windows-backlit-mechanical-keyboard-to-work-seamlessly-with-your-mac][Work Seamlessly with Mac]]
++ Topre
+ - http://www.amazon.com/Topre-Type-Heaven-104-key-Keyboard/dp/B00DGJALYW
+ - Realforce 87U
+   + [[http://youtu.be/rAzbB_jNSYA][Realforce 87U 55g Video Review]]
+ - http://xahlee.info/kbd/keyboards_with_topre_switch.html
++ TypeMatrix
+ - http://www.typematrix.com
++ Other
+ - [[http://specialneedscomputers.ca/index.php?l=product_detail&p=127][Zero Touch]]
+ - [[http://www.lightio.com/index.html][LightIO Touchless Keyboard]] 
++ [[http://portfolio.cooper.stevenson.name/formula_one/index.html][Formula One]]
++ http://xahlee.info/kbd/osx_keybinding.html
+
+* Keyboard Reviews
+
+
+
+* Build Your Own
+
++ http://yager.io/keyboard/keyboard.html
++ http://www.massdrop.com/article/introduction-to-keyboard-programming
+ - http://news.ycombinator.com/item?id=9576654
++ [[http://atreus.technomancy.us][Atreus]]
++ [[https://www.youtube.com/watch?v=uk3A41U0iO4][Matt Adereth]]
++ [[http://deskthority.net/wiki/Teensy][Teensy keyboard controller]]
+
+* Keyboards
+
++ [[http://www.amazon.com/Topre-Type-Heaven-104-key-Keyboard/dp/B00DGJALYW][Topre Type Heaven 104-key Keyboard]]
+
+* Actuation forces
+
++ Cherry MX browns are very quiet at the point of actuation. They will
+click from the keys bottoming out and from releasing the key.
++ [[http://www.reddit.com/r/keyboards/][Common Cherry MX switch types]] (reddit)
+
+
+* Alternate Keyboard Layouts
+
++ [[http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html][Keyboard Layouts Fight! Dvorak, Colemak, Workman, NEO, Bépo, …]] (2014-09-10)
++ Colemak
+ - http://colemak.com
+ - http://medium.com/@vojtajina/my-keyboard-layout-is-better-than-yours-f23b19d1b046
++ Dvorak
+ - [[http://lifebyexperimentation.com/2013/08/learn-dvorak/#.VJRl8AOAA][How Long it Takes to Learn a Dvorak Keyboard (One-Year Empirical Study)]] (2013-08-06)
+ - http://forum.colemak.com/viewtopic.php?id=2034
++ [[https://normanlayout.info/][Norman]]
++ http://www.reddit.com/r/dvorak/comments/3k6jfq/hi_17_yo_student_never_learned_how_to_touch_type
++ Workman
+ - [[http://www.workmanlayout.com/blog/][The Workman Keyboard Layout Philosophy]] (2010-10-06)
+ - http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts
++ http://www.fentek-ind.com/keytop-labels.htm#.VKkXjkY777o
++ http://xahlee.info/comp/computer_language_char_distribution.html - Plot your own source code distribution
++ [[http://patorjk.com/keyboard-layout-analyzer/#/main][Keyboard Layout Analyzer]]
++ http://thetypingcat.com - scroll to bottom for stats
+
+* Misc
++ http://www.asetniop.com
+
+* Key Caps: pbt vs abs
++ ABS is cheaper and gets shiny over time
+
+* DCS (sculptured - non-interchangeable) vs DSA (flat - interchangeable)
++ http://www.reddit.com/r/MechanicalKeyboards/comments/2bt06h/dsa_vs_dcs
++ http://deskthority.net/wiki/Keyboard_profile
++ [[http://geekhack.org/index.php?topic=44502.0][Not a fan of DSA]]
+
+* Foot Pedals
++ [[http://news.ycombinator.com/item?id=10184555][DIY control pedal on Linux]]
+
+#+BEGIN_COMMENT
+[–]hydrox24 1 point 1 year ago* 
+THIS. You may be fine in a few weeks but if you have an history of RSI or wrist issues or the like you should switch to blue or brown as soon as you can. 
+http://www.reddit.com/r/keyboards/comments/1ds9pd/will_i_get_used_to_cherry_mx_
+
+#+END_COMMENT

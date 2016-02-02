@@ -1,0 +1,31 @@
+#+STARTUP: showall
+#+TITLE: Programming by Voice
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "ergo_menu.org"
+
+Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]]
++ [[http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself][Programming by Voice: Staying Productive without Harming Yourself]] (extrahop.com) (2014-10-20)
+ - [[http://news.ycombinator.com/item?id=8484847][HN: Programming by Voice: Staying Productive Without Harming Yourself]]
++ [[http://ergoemacs.org/emacs/using_voice_to_code.html][Using Voice to Code Faster than Keyboard]] (ergoemacs.org) (2013-03-27)
++ [[http://lifehacker.com/i-used-dictation-and-voice-control-for-a-week-heres-wh-1683878052][I Used Dictation and Voice Control for a Week. Here's What Happened]]
++ [[http://stackoverflow.com/questions/1408874/speech-recognition-programming?rq=1][Speech Recognition & Programming]] (stackoverflow.com)
++ [[http://stackoverflow.com/questions/350348/can-i-write-sql-using-speech-recognition/350349#350349][Can I write SQL using speech recognition?]] (stackoverflow.com)
++ [[http://productivity.stackexchange.com/questions/3605/how-can-we-use-dragon-naturallyspeaking-to-code-more-efficiently][How can we use Dragon NaturallySpeaking to code more efficiently?]] (stackoverflow.com)
++ [[http://stackoverflow.com/questions/87999/voice-recognition-software-for-developers?rq=1][Voice Recognition Software For Developers]] (stackoverflow.com)
++ [[http://stackoverflow.com/questions/2710537/best-programming-aids-for-a-quadriplegic-programmer?lq=1][Best programming aids for a quadriplegic programmer]] (stackoverflow.com)
++ http://news.ycombinator.com/item?id=8087595 - NatI: Multi-language voice control system for Ubuntu written in Python
+
+
+** Source Code
+
+*** 
++ [[http://github.com/dictation-toolbox][Dictation Toolbox]]
+ - [[https://github.com/dictation-toolbox/aenea][A system to allow speech recognition via Dragonfly on one computer to send events to another]]
+ - [[https://github.com/dictation-toolbox/dragonfly-scripts][Dragonfly Scripts]]
+ - [[https://github.com/dictation-toolbox/dragonfly][Dragonfly]]
+ - [[https://github.com/dictation-toolbox/aenea-grammars][aenea Grammars - Grammars pulled out of aenea as preparation for merging all grammars]]
++ [[https://github.com/tgrosinger/aenea-grammars][Custom commands for the Aenea voice control framework]]
++ http://github.com/simianhacker/code-by-voice
+
