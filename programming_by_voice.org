@@ -6,6 +6,7 @@
 #+INCLUDE: "ergo_menu.org"
 
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]]
+
 + [[http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself][Programming by Voice: Staying Productive without Harming Yourself]] (extrahop.com) (2014-10-20)
  - [[http://news.ycombinator.com/item?id=8484847][HN: Programming by Voice: Staying Productive Without Harming Yourself]]
 + [[http://ergoemacs.org/emacs/using_voice_to_code.html][Using Voice to Code Faster than Keyboard]] (ergoemacs.org) (2013-03-27)
