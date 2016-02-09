@@ -103,6 +103,10 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + vim
  - [[http://stackoverflow.com/questions/11443012/how-to-remap-keyboard-keys-to-avoid-rsi-in-vim][How to remap keyboard to avoid RSI in VIM]]
  - [[http://www.hxa.name/articles/content/ergovim-key-mappings_hxa7241_2010.html][ErgoVIM Key Mappings]]
+ - Remap/Avoid ESC Key
+   + [[https://www.reddit.com/r/vim/comments/2b1nnd/how_do_you_avoid_esc][Reddit - How to avoid ESC]]
+   + [[http://ergoemacs.org/emacs/vi_remap_escape_key.html][Vim: How to Remap Escape Key?]]
+   + [[http://vi.stackexchange.com/questions/300/other-ways-to-exit-insert-mode-besides-escape][Other ways to exit Insert mode besides Escape]]
 + Emacs
  - http://xahlee.info/kbd/banish_key_chords.html
  - http://ergoemacs.org/misc/ergoemacs_vi_mode.html
