@@ -73,7 +73,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://www.rsitips.com/healing-rsi-through-exercise/][Healing RSI through Exercise]] (rsitips.com)
 + [[http://stackoverflow.hewgill.com/questions/191/5.html][How do I know if have RSI or carpal tunnel?]] (stackoverflow.hewgill.com)
 + [[http://neckandshoulders.blogspot.com/2006/01/swimming-as-rsi-therapy.html][Swimming as RSI Therapy]] 
-+ [[http://geekhack.org/index.php?topic=27940.0][Topic: mechanical keyboard vs regular keyboard.(hand fatigue)] (geekhack.org) (2012-02-27)
++ [[http://geekhack.org/index.php?topic=27940.0][Topic: mechanical keyboard vs regular keyboard.(hand fatigue)]] (geekhack.org) (2012-02-27)
 + [[http://geekhack.org/index.php?topic=18306.0][Advice for RSI sufferer]] (geekhack.org) (2011-05-23)
 + [[http://henrikwarne.com/2012/02/18/how-i-beat-rsi/][How I Beat Repetitive Stress Injury]] (henrikwarne.com) (2012-02-18)
 + The Mind Body Approach - Dr. John Sarno
@@ -108,7 +108,11 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
  - http://ergoemacs.org/misc/ergoemacs_vi_mode.html
  - http://xahlee.info/kbd/efficiency_of_keybinding_emacs_vs_vim.html
  - https://github.com/chrisdone/god-mode
-
+ - Emacs Pinky
+   + [[https://news.ycombinator.com/item?id=2610467][HN - Emacs Pinky]]
+   + [[http://stackoverflow.com/questions/52492/what-is-the-best-way-to-avoid-getting-emacs-pinky][StackOverFlow Question]]
+   + [[http://ergoemacs.org/emacs/emacs_pinky.html][How to Avoid the Emacs Pinky Problem]]
+   + [[https://www.reddit.com/r/emacs/comments/44c0ed/emacs_pinky/][Reddit Question]]
 
 * Books
 + [[http://www.amazon.com/Trigger-Point-Therapy-Workbook-Self-Treatment/dp/1572243759][The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief]]
