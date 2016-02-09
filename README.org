@@ -22,7 +22,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 |Standing Desk|less bad posture?|
 |Stretching||
 |Swimming||
-|Switch Keyboard Layout|Dvorak/Colemak|Fingers move less.  Home row contains frequently used keys|
+|Switch Keyboard Layout|[[http://xahlee.info/comp/dvorak_keyboard_layout.html][Dvorak]]/[[http://colemak.com][Colemak]]|Fingers move less.  Home row contains frequently used keys|
 |Switch Keyboard|Mechanical/Kinesis/Split/Tented|
 |Switch Mouse||
 |Yoga||
