@@ -23,7 +23,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 |Stretching||
 |Swimming||
 |Switch Keyboard Layout|[[http://xahlee.info/comp/dvorak_keyboard_layout.html][Dvorak]]/[[http://colemak.com][Colemak]]|Fingers move less.  Home row contains frequently used keys|
-|Switch Keyboard|Mechanical/Kinesis/Split/Tented|[[https://h4labs.wordpress.com/2015/07/16/the-model-01-an-heirloom-grade-keyboard-for-serious-typists][Introduction to Ergonomic Keyboards]]|
+|Switch Keyboard|Mechanical/Kinesis/Split/Tented|[[https://h4labs.wordpress.com/2015/07/16/the-model-01-an-heirloom-grade-keyboard-for-serious-typists][Introduction to Ergonomic Keyboards]]/ [[http://thewirecutter.com/reviews/comfortable-ergo-keyboard][The Most Comfortable Ergonomic Keyboard]]|
 |Switch Mouse||
 |Yoga||
 
