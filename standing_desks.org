@@ -1,0 +1,31 @@
+#+STARTUP: showall
+#+TITLE: Standing Desks
+#+AUTHOR: http://h4labs.com, melling@h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "ergo_menu.org"
+Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]] | [[file:standing_desks.org][Standing Desks]]
+
+* Articles
++ [[http://begriffs.com/posts/2015-12-20-dream-standing-desk.html][Dream Standing-Desk Setup]]
++ [[https://blog.c-mart.in/posts/sit-stand-desk-ikea-skarsta-review][Sit/Stand Desk: IKEA SKARSTA Review]]
+  - [[https://news.ycombinator.com/item?id=10990998][HN Discussion]]
++ [[http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html][A standing desk for $22]]
+ - [[https://news.ycombinator.com/item?id=4134307][HN Discussion]]
++ [[http://zenhabits.net/stand/][My Standing Desk Experiment]]
+  - [[https://news.ycombinator.com/item?id=2828948][HN Discussion]]
++ [[http://joshuaearl.com/my-47-collapsible-standing-desk/][My $47 collapsible standing desk]]
+  - [[https://news.ycombinator.com/item?id=4247599][HN Discussion]]
++ [[http://www.wired.com/2014/11/ikea-bekant-desk/][Ikea Gives Us an Adjustable Standing Desk We Can Actually Afford]]
+ - [[https://news.ycombinator.com/item?id=8552613][HN Discussion]]
++ [[http://priceonomics.com/desks/ikea][Hack a Standing Desk from IKEA]]
+ - [[https://news.ycombinator.com/item?id=4381925][HN Discussion]]
++ [[http://www.happenchance.net/after-three-months-of-using-a-standing-desk][After Three Months of Using a Standing Desk…]]
+ - [[https://news.ycombinator.com/item?id=2644269][HN Discussion]]
+
+* Desks/Equipment
++ [[http://www.amazon.com/Alvin-MiniMaster-Adjustable-Drafting-Table/dp/B001EO9UDY][Alvin MiniMaster Table Black Base with Woodgrain Top]]
++ [[http://www.amazon.com/Rebel-Adjustable-Height-Standing-Desk/dp/B014TMICJA][Rebel Up 2000 Adjustable Height Standing Desk (Teak)]]
++ [[https://ebalsa.org/ebalsa/hacks/ikea-electric-standing-desk/][IKEA Electric Standing Desk]]
++ [[http://www.amazon.com/gp/product/B004QXIFCC][Furinno Adjustable Vented Laptop Table Laptop Computer Desk Portable Bed Tray Book Stand Multifuctional & Ergonomics Design Dual Layer Tabletop up to 17”]]
