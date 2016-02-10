@@ -32,7 +32,6 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://www.ncbi.nlm.nih.gov/pubmed/17394178][Work-related repetitive strain injury and leisure-time physical activity]]
 + http://www.reddit.com/r/RSI/comments/3efbj1/effects_of_keyboard_tray_geometry_on_upper_body
 + Hot-cold contrast baths 1 to 4 times a day.
-+ ulnar nerve entrapment
 + [[http://www.wsj.com/articles/SB117020048251292936][Classical Musicians Suffer for Their Art]] (wsj)
 + http://www.healthline.com/health/tenosynovitis#Causes2
 + [[http://news.ycombinator.com/item?id=8485497][HN User Recommends Blue Switches]]
@@ -146,6 +145,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 * Nerves - Flossing and tensioning the nerve
 ** Ulnar Nerve Exercises - pinky + ring finger - funny bone nerve
+ + ulnar nerve entrapment
  + [[https://youtu.be/BHfKutz21do?t=5m4s][@5:04]] | [[http://youtu.be/BHfKutz21do][From Beginning]] 
  + Waiter plate exercise.
  + Mask and tilt side-to-side - [[http://youtu.be/d85QKyWvrbI][Video]]
@@ -154,7 +154,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
  + [[https://youtu.be/BHfKutz21do?t=2m30s][@2:30]] | [[http://youtu.be/BHfKutz21do][From Beginning]]
 ** Radial Nerve Glide Exercises - Extensor muscles -  hand opening motion 
  + [[http://youtu.be/gPXMX4nGNJI][Video]] 
-+ [[http://youtu.be/fdD7CgN5FGg][Stretching Video]]
+ + [[http://youtu.be/fdD7CgN5FGg][Stretching Video]]
 
 * Hardware
 
@@ -174,7 +174,18 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://begriffs.com/posts/2015-12-20-dream-standing-desk.html][Dream Standing-Desk Setup]]
 + [[https://blog.c-mart.in/posts/sit-stand-desk-ikea-skarsta-review][Sit/Stand Desk: IKEA SKARSTA Review]]
   - [[https://news.ycombinator.com/item?id=10990998][HN Discussion]]
-
++ [[http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html][A standing desk for $22]]
+ - [[https://news.ycombinator.com/item?id=4134307][HN Discussion]]
++ [[http://zenhabits.net/stand/][My Standing Desk Experiment]]
+  - [[https://news.ycombinator.com/item?id=2828948][HN Discussion]]
++ [[http://joshuaearl.com/my-47-collapsible-standing-desk/][My $47 collapsible standing desk]]
+  - [[https://news.ycombinator.com/item?id=4247599][HN Discussion]]
++ [[http://www.wired.com/2014/11/ikea-bekant-desk/][Ikea Gives Us an Adjustable Standing Desk We Can Actually Afford]]
+ - [[https://news.ycombinator.com/item?id=8552613][HN Discussion]]
++ [[http://priceonomics.com/desks/ikea][Hack a Standing Desk from IKEA]]
+ - [[https://news.ycombinator.com/item?id=4381925][HN Discussion]]
++ [[http://www.happenchance.net/after-three-months-of-using-a-standing-desk][After Three Months of Using a Standing Desk…]]
+ - [[https://news.ycombinator.com/item?id=2644269][HN Discussion]]
 ** Desks/Equipment
 + [[http://www.amazon.com/Alvin-MiniMaster-Adjustable-Drafting-Table/dp/B001EO9UDY][Alvin MiniMaster Table Black Base with Woodgrain Top]]
 + [[http://www.amazon.com/Rebel-Adjustable-Height-Standing-Desk/dp/B014TMICJA][Rebel Up 2000 Adjustable Height Standing Desk (Teak)]]
