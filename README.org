@@ -14,9 +14,10 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 |Technique|Comments|Other|
 |---
 |Acupuncture||
-|Biofeedback||
+|Biofeedback|Identify muscle tension and reduce it|
 |Exercise (various)|e.g. weightlifting|
 |Mind Body Approach|Mind causes oxygen deprivation?|
+|Nerve Flossing & Tensioning||
 |Posture Adjustments||
 |Pushups||
 |Standing Desk|less bad posture?|
