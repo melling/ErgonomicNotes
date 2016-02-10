@@ -172,14 +172,12 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 * Standing Desks
 ** Articles
 + [[http://begriffs.com/posts/2015-12-20-dream-standing-desk.html][Dream Standing-Desk Setup]]
-+ [[https://blog.c-mart.in/posts/sit-stand-desk-ikea-skarsta-review][Sit/Stand Desk: IKEA SKARSTA Review
-]]
++ [[https://blog.c-mart.in/posts/sit-stand-desk-ikea-skarsta-review][Sit/Stand Desk: IKEA SKARSTA Review]]
   - [[https://news.ycombinator.com/item?id=10990998][HN Discussion]]
 
 ** Desks/Equipment
 + [[http://www.amazon.com/Alvin-MiniMaster-Adjustable-Drafting-Table/dp/B001EO9UDY][Alvin MiniMaster Table Black Base with Woodgrain Top]]
 + [[http://www.amazon.com/Rebel-Adjustable-Height-Standing-Desk/dp/B014TMICJA][Rebel Up 2000 Adjustable Height Standing Desk (Teak)]]
-+ [[][]]
 + [[https://ebalsa.org/ebalsa/hacks/ikea-electric-standing-desk/][IKEA Electric Standing Desk]]
 + [[http://www.amazon.com/gp/product/B004QXIFCC][Furinno Adjustable Vented Laptop Table Laptop Computer Desk Portable Bed Tray Book Stand Multifuctional & Ergonomics Design Dual Layer Tabletop up to 17”]]
 
