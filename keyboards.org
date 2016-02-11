@@ -97,9 +97,6 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + [[http://portfolio.cooper.stevenson.name/formula_one/index.html][Formula One]]
 + http://xahlee.info/kbd/osx_keybinding.html
 
-* Keyboard Reviews
-
-
 
 * Build Your Own
 
