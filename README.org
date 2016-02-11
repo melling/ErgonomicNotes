@@ -158,11 +158,17 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
  + [[http://youtu.be/fdD7CgN5FGg][Stretching Video]]
 
 * Hardware
-
+** Eye Tracking
 + [[https://asstech.wordpress.com/2012/10/19/smartnav/][SmartNav]] (asstech.wordpress.com) [Eye tracking]
  - http://www.naturalpoint.com/smartnav/
+
+** Gesture Computing (i.e. Minority Report)
++ [[http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html][Intel Real Sense]]
 + [[https://www.leapmotion.com][Leap Motion]] (leapmotion.com) [Hand Gestures]
 + [[https://www.thalmic.com/en/myo/][Myo]] (thalmic.com) [Arm band for gestures]
++ [[http://www.youtube.com/watch?v=0QNiZfSsPc0][Google's Soli chip - 2016]]
+
+** Misc
 + [[https://www.kickstarter.com/projects/86285180/the-roost-saving-your-neck-and-back-from-your-lapt][Roost Kickstarter Project]] (kickstarter.com) [Laptop stand]
 + [[http://www.reddit.com/r/IAmA/comments/1fkxg1/lost_ability_to_type_on_a_keyboard_at_age_26/][Story of Roost]] (reddit.com)
 + http://www.nouse.ca 
