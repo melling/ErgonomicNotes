@@ -30,3 +30,33 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + [[https://github.com/tgrosinger/aenea-grammars][Custom commands for the Aenea voice control framework]]
 + http://github.com/simianhacker/code-by-voice
 
+* Dragon Dictate
+** Commands
+#+BEGIN_EXAMPLE
+sleep mode
+wake up
+scratch that
+Show available command windows
+Delete <text> or (through/to <text>)
+Cap <word>
+Caps on / caps off
+Search Google for 
+Search the Spotlight for <text>
+now is the time for all
+Mouse click
+Move mouse <direction> and <direction>
+Select <text> or (through / to <text>)
+Press the a|b|
+#+END_EXAMPLE
+
++ http://9to5mac.com/2014/03/29/review-dragon-dictate-4-0-for-mac-the-best-speech-recognition-app-gets-even-better/
++ http://www.macworld.com/article/2110425/dragon-dictate-4-review-improved-speech-recognition-makes-for-a-more-reliable-app.html
++ http://www.macworld.com/article/1167380/usb_6_in_1_tablemike_great_for_mac_speech_recognition.html
+
+** Dragon References
+	
++ [[http://www.nuance.com/ucmprod/groups/dragon/@web-enus/documents/collateral/Dragon_Dictate_4_User_Manual.pdf][Dragon Dictate 4 User Manual.pdf]]
+
+* Siri
++ http://www.dummies.com/how-to/content/siri-for-dummies-cheat-sheet.html
+
