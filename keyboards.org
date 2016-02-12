@@ -29,6 +29,8 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html
 ** MX Cherry
 + http://superuser.com/questions/366221/differences-between-cherry-mechanical-keyboard-switches
++ [[https://i.imgur.com/H7bLPaf.png][Picture Grid of Switches]]
+
 ** Matias
 ** Topre
  - http://deskthority.net/wiki/Topre_switch
