@@ -161,6 +161,8 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 ** Eye Tracking
 + [[https://asstech.wordpress.com/2012/10/19/smartnav/][SmartNav]] (asstech.wordpress.com) [Eye tracking]
  - http://www.naturalpoint.com/smartnav/
++ http://www.tobii.com
++ http://eyefluence.com
 
 ** Gesture Computing (i.e. Minority Report)
 + [[http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html][Intel Real Sense]]
