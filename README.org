@@ -31,13 +31,13 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 * Inbox
 + [[http://github.com/JuliusSweetland/OptiKey/wiki][OptiKey]]
 + [[http://www.ncbi.nlm.nih.gov/pubmed/17394178][Work-related repetitive strain injury and leisure-time physical activity]]
-+ http://www.reddit.com/r/RSI/comments/3efbj1/effects_of_keyboard_tray_geometry_on_upper_body
++ [[http://www.reddit.com/r/RSI/comments/3efbj1/effects_of_keyboard_tray_geometry_on_upper_body][reddit - Effects of keyboard tray geometry on upper body posture and comfort]]
 + Hot-cold contrast baths 1 to 4 times a day.
 + [[http://www.wsj.com/articles/SB117020048251292936][Classical Musicians Suffer for Their Art]] (wsj)
 + http://www.healthline.com/health/tenosynovitis#Causes2
 + [[http://news.ycombinator.com/item?id=8485497][HN User Recommends Blue Switches]]
 + http://thewirecutter.com/reviews/comfortable-ergo-keyboard/#Ergonomics
-+ http://news.ycombinator.com/item?id=9605262
++ [[http://news.ycombinator.com/item?id=9605262][HN - One year with the Truly Ergonomic keyboard]]
 + http://matt.might.net/articles/preventing-and-managing-rsi
 + http://sepwww.stanford.edu/sep/jon/sorehand.html
 + http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi
