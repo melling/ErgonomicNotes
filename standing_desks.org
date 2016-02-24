@@ -25,6 +25,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - [[https://news.ycombinator.com/item?id=2644269][HN Discussion]]
 
 * Desks/Equipment
++ [[https://www.producthunt.com/e/standing-desks-for-everyone][Product Hunt Reviews]]
 + [[http://www.amazon.com/Alvin-MiniMaster-Adjustable-Drafting-Table/dp/B001EO9UDY][Alvin MiniMaster Table Black Base with Woodgrain Top]]
 + [[http://www.amazon.com/Rebel-Adjustable-Height-Standing-Desk/dp/B014TMICJA][Rebel Up 2000 Adjustable Height Standing Desk (Teak)]]
 + [[https://ebalsa.org/ebalsa/hacks/ikea-electric-standing-desk/][IKEA Electric Standing Desk]]
