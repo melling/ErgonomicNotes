@@ -17,7 +17,8 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + [[http://stackoverflow.com/questions/87999/voice-recognition-software-for-developers?rq=1][Voice Recognition Software For Developers]] (stackoverflow.com)
 + [[http://stackoverflow.com/questions/2710537/best-programming-aids-for-a-quadriplegic-programmer?lq=1][Best programming aids for a quadriplegic programmer]] (stackoverflow.com)
 + http://news.ycombinator.com/item?id=8087595 - NatI: Multi-language voice control system for Ubuntu written in Python
-
++ [[https://ggulati.wordpress.com/2016/02/24/coding-jarvis-in-python-3-in-2016][Coding Jarvis in Python in 2016]]
+ - [[https://news.ycombinator.com/item?id=11172727][HN Discussion]]
 
 ** Source Code
 
@@ -59,4 +60,3 @@ Press the a|b|
 
 * Siri
 + http://www.dummies.com/how-to/content/siri-for-dummies-cheat-sheet.html
-
