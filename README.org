@@ -26,6 +26,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 |Switch Keyboard Layout|[[http://xahlee.info/comp/dvorak_keyboard_layout.html][Dvorak]]/[[http://colemak.com][Colemak]]|Fingers move less.  Home row contains frequently used keys|
 |Switch Keyboard|Mechanical/Kinesis/Split/Tented|[[https://h4labs.wordpress.com/2015/07/16/the-model-01-an-heirloom-grade-keyboard-for-serious-typists][Introduction to Ergonomic Keyboards]]/ [[http://thewirecutter.com/reviews/comfortable-ergo-keyboard][The Most Comfortable Ergonomic Keyboard]]|
 |Switch Mouse||
+|Trigger Point Therapy|Treat knots in muscles||
 |Yoga||
 
 * Inbox
@@ -91,6 +92,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://www.reddit.com/r/RSI/comments/22ge19/programmer_looking_for_advice_on_wrist_rsi/][Programmer, looking for advice on wrist RSI]] (reddit.com)
 + [[http://alumni.media.mit.edu/~cahn/rsi/meditations][Repetitive Strain Injuries]] (alumni.media.mit.edu)
 + [[http://ux.mit.edu/atic/rsi][Repetitive Strain Injury (RSI) Prevention]] (ux.mit.edu)
++ [[http://www.howibeatrsi.com/how-james-beat-rsi/][How James beat RSI]]
 + [[http://web.eecs.umich.edu/~cscott/rsi.html][Repetitive Strain Injury]] (web.eecs.umich.edu)
 + [[http://www.rsi-therapy.com/treatments.htm][RSI Treatments]] (rsi-therapy.com)
 + [[http://ux.mit.edu/atic/rsi/needtoknow][RSI: What you absolutely need to know]] (ux.mit.edu)
