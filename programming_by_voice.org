@@ -20,6 +20,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + [[https://ggulati.wordpress.com/2016/02/24/coding-jarvis-in-python-3-in-2016][Coding Jarvis in Python in 2016]]
  - [[https://news.ycombinator.com/item?id=11172727][HN Discussion]]
 + [[http://googledocs.blogspot.com/2016/02/type-edit-and-format-with-your-voice-in.html][Type, edit and format with your voice in Docs—no keyboard needed!]]
++ [[http://www.knowbrainer.com/forums/forum/index.cfm][KnowBrainer Speech Recognition Forums]]
 
 ** Source Code
 
