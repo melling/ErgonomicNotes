@@ -14,6 +14,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 |Technique|Comments|Other|
 |---
 |Acupuncture||
+|Alexander technique|https://en.m.wikipedia.org/wiki/Alexander_technique||
 |Biofeedback|Identify muscle tension and reduce it|
 |Exercise (various)|e.g. weightlifting|
 |Mind Body Approach|Mind causes oxygen deprivation?|
