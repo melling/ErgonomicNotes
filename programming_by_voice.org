@@ -32,6 +32,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - [[https://github.com/dictation-toolbox/aenea-grammars][aenea Grammars - Grammars pulled out of aenea as preparation for merging all grammars]]
 + [[https://github.com/tgrosinger/aenea-grammars][Custom commands for the Aenea voice control framework]]
 + http://github.com/simianhacker/code-by-voice
++ [[https://github.com/davitenio/dragonfly-macros][Dragonfly Macros]]
 + [[https://github.com/kaldi-asr/kaldi][Kaldi Speech Recognition Toolkit]]
 
 * Dragon Dictate
