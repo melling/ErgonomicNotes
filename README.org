@@ -227,15 +227,8 @@ Reverse flyes
 + [[https://github.com/polyethene/IronAHK][IronAHK: Cross platform rewrite AutoHotkey scripting for desktop automation]]
 
 
-* Steno
-
-+ [[http://stenoknight.com/wiki/Main_Page][Plover Wiki - the world's first free, open source stenography engine]] (stenoknight.com)
- - [[http://youtu.be/jRFKZGWrmrM][Coding Python with Plover]]
-
 * Misc
 
-+ [[http://openstenoproject.org][The Open Steno Project]]
-+ [[https://github.com/shaaniqbal/T9-QWERTY/][T9-QWERTY - The Ultra Efficient Minimal Motion Keyboard System]] (github.com)
 + https://code.google.com/p/autokey/
 + http://www.nasa.gov/home/hqnews/2004/mar/HQ_04093_subvocal_speech.html
 + [[https://www.sparkfun.com/products/11776][Muscle Sensor v3 Kit]] (sparkfun.com)
