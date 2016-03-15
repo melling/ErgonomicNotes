@@ -7,7 +7,7 @@
 #+INCLUDE: "ergo_menu.org"
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:standing_desks.org][Standing Desks]]
 
-Table of Contents: [[#automation][Automation]] | [[#books][Books]] | [[#ergonomic-chairs][Chairs]] | [[#editors][Editors]] | [[#exercises][Exercises]] | [[#eye-tracking][Eye Tracking]] | [[#gesture-computing][Gesture Devices]] | [[#posture][Posture]] | [[#rsi-articles][RSI Articles]] | [[#stretches][Stretches]] ([[#stretching-videos][Stretching Videos]]) |
+Table of Contents: [[#automation][Automation]] | [[#books][Books]] | [[#ergonomic-chairs][Chairs]] | [[#editors][Editors]] | [[#exercises][Exercises]] | [[#eye-tracking][Eye Tracking]] | [[#gesture-computing][Gesture Devices]] | [[#nerves][Nerves]] | [[#posture][Posture]] | [[#rsi-articles][RSI Articles]] | [[#stretches][Stretches]] ([[#stretching-videos][Stretching Videos]]) |
 
 Please note that there is no agreed upon cause of RSI (repetitive stress injury).  Dozens of people have blogged about their problems and their cures, or lack of.  These notes are here to facilitate your own research. Rest (most agree on rest) and consult your doctor to decide what's best for you. 
 
@@ -151,7 +151,8 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://youtu.be/xAKOpnqvttI][Yoga Stretches for Carpal Tunnel Syndrome : Desk Posture to Relieve Carpal Tunnel]] (expertvillage)
 + [[http://youtu.be/-IJC0bckKBY][Yoga for Carpal Tunnel Syndrome : More Finger Stretches for Carpal Tunnel]] (expertvillage)
 
-* Nerves - Flossing and tensioning the nerve
+* Nerves 
++ Flossing and tensioning the nerve
 ** Ulnar Nerve Exercises - pinky + ring finger - funny bone nerve
  + ulnar nerve entrapment
  + [[https://youtu.be/BHfKutz21do?t=5m4s][@5:04]] | [[http://youtu.be/BHfKutz21do][From Beginning]] 
