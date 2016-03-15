@@ -134,11 +134,11 @@ click from the keys bottoming out and from releasing the key.
 + Colemak
  - http://colemak.com
  - http://medium.com/@vojtajina/my-keyboard-layout-is-better-than-yours-f23b19d1b046
+ - http://forum.colemak.com/viewtopic.php?id=2034
 + Dvorak
  - [[http://lifebyexperimentation.com/2013/08/learn-dvorak/#.VJRl8AOAA][How Long it Takes to Learn a Dvorak Keyboard (One-Year Empirical Study)]] (2013-08-06)
  - [[http://joebuhlig.com/dvorak-transition/][Dvorak Transition]]
  - [[http://www.amazon.com/dp/B00IPGZC54/][Labels]]
- - http://forum.colemak.com/viewtopic.php?id=2034
 + [[https://normanlayout.info/][Norman]]
 + http://www.reddit.com/r/dvorak/comments/3k6jfq/hi_17_yo_student_never_learned_how_to_touch_type
 + Workman
