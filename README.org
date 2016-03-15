@@ -7,6 +7,8 @@
 #+INCLUDE: "ergo_menu.org"
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:standing_desks.org][Standing Desks]]
 
+Table of Contents: [[#books][Books]] | [[#editors][Editors]] | [[#exercises][Exercises]] | [[#eye-tracking][Eye Tracking]] | [[#gestures][Gesture Devices]] | [[#stretches][Stretches]] ([[#stretching-videos][Stretching Videos]]) |
+
 Please note that there is no agreed upon cause of RSI (repetitive stress injury).  Dozens of people have blogged about their problems and their cures, or lack of.  These notes are here to facilitate your own research. Rest (most agree on rest) and consult your doctor to decide what's best for you. 
 
 * Checklist - Various Things People Have Tried
