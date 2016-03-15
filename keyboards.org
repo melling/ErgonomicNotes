@@ -99,7 +99,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + [[http://portfolio.cooper.stevenson.name/formula_one/index.html][Formula One]]
 + http://xahlee.info/kbd/osx_keybinding.html
 
-
+#+NAME: build
 * Build Your Own
 
 + http://yager.io/keyboard/keyboard.html
@@ -123,7 +123,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 click from the keys bottoming out and from releasing the key.
 + [[http://www.reddit.com/r/keyboards/][Common Cherry MX switch types]] (reddit)
 
-
+#+NAME: layouts
 * Alternate Keyboard Layouts
 
 + [[http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html][Keyboard Layouts Fight! Dvorak, Colemak, Workman, NEO, Bépo, …]] (2014-09-10)
