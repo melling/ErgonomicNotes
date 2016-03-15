@@ -148,18 +148,17 @@ click from the keys bottoming out and from releasing the key.
 + http://xahlee.info/comp/computer_language_char_distribution.html - Plot your own source code distribution
 + [[http://patorjk.com/keyboard-layout-analyzer/#/main][Keyboard Layout Analyzer]]
 + http://thetypingcat.com - scroll to bottom for stats
-
-* Misc
-+ [[http://www.asetniop.com][ASETNIOP: Chorded Keyboard Replacement Method]]
++ [[http://www.keybr.com/][Keybr - Learn Touch Typing] - Choose layout
++ Chorded Keyboards
+ - [[http://www.asetniop.com][ASETNIOP: Chorded Keyboard Replacement Method]]
 
 * Key Caps
 + pbt vs abs
 + ABS is cheaper and gets shiny over time
-
-* DCS (sculptured - non-interchangeable) vs DSA (flat - interchangeable)
-+ http://www.reddit.com/r/MechanicalKeyboards/comments/2bt06h/dsa_vs_dcs
-+ http://deskthority.net/wiki/Keyboard_profile
-+ [[http://geekhack.org/index.php?topic=44502.0][Not a fan of DSA]]
++ DCS (sculptured - non-interchangeable) vs DSA (flat - interchangeable)
+ - http://www.reddit.com/r/MechanicalKeyboards/comments/2bt06h/dsa_vs_dcs
+ - http://deskthority.net/wiki/Keyboard_profile
+ -[[http://geekhack.org/index.php?topic=44502.0][Not a fan of DSA]]
 
 * Foot Pedals
 + [[http://news.ycombinator.com/item?id=10184555][DIY control pedal on Linux]]
