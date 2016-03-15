@@ -6,7 +6,7 @@
 #+INCLUDE: "ergo_menu.org"
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]] | [[file:standing_desks.org][Standing Desks]]
 + Most membrane keyswitches are rated between 60 and 80 grams [1]
-Table of Contents: [[#layouts][Alternate Layouts]] | [[#build][Build Your Own]]
+Table of Contents: [[#alternate-keyboard-layouts][Alternate Keyboard Layouts]] | [[#build-your-own][Build Your Own]]
 
 
 [1] [[http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html][Comparing Mechanical, Membrane and Scissor-Switch Membrane Keyboards - Ergonomic Considerations of Keyswitch Type]]
