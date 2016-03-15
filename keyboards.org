@@ -151,6 +151,12 @@ click from the keys bottoming out and from releasing the key.
 + [[http://www.keybr.com/][Keybr - Learn Touch Typing]] - Choose layout
 + Chorded Keyboards
  - [[http://www.asetniop.com][ASETNIOP: Chorded Keyboard Replacement Method]]
+ - Steno
+  + [[http://stenoknight.com/wiki/Main_Page][Plover Wiki - the world's first free, open source stenography engine]] (stenoknight.com)
+   - [[http://youtu.be/jRFKZGWrmrM][Coding Python with Plover]]
+  + [[http://openstenoproject.org][The Open Steno Project]]
++ Misc
+ - + [[https://github.com/shaaniqbal/T9-QWERTY/][T9-QWERTY - The Ultra Efficient Minimal Motion Keyboard System]] (github.com)
 
 * Key Caps
 + pbt vs abs
@@ -158,7 +164,7 @@ click from the keys bottoming out and from releasing the key.
 + DCS (sculptured - non-interchangeable) vs DSA (flat - interchangeable)
  - http://www.reddit.com/r/MechanicalKeyboards/comments/2bt06h/dsa_vs_dcs
  - http://deskthority.net/wiki/Keyboard_profile
- -[[http://geekhack.org/index.php?topic=44502.0][Not a fan of DSA]]
+ - [[http://geekhack.org/index.php?topic=44502.0][Not a fan of DSA]]
 
 * Foot Pedals
 + [[http://news.ycombinator.com/item?id=10184555][DIY control pedal on Linux]]
