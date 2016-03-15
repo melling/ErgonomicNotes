@@ -148,7 +148,7 @@ click from the keys bottoming out and from releasing the key.
 + http://xahlee.info/comp/computer_language_char_distribution.html - Plot your own source code distribution
 + [[http://patorjk.com/keyboard-layout-analyzer/#/main][Keyboard Layout Analyzer]]
 + http://thetypingcat.com - scroll to bottom for stats
-+ [[http://www.keybr.com/][Keybr - Learn Touch Typing] - Choose layout
++ [[http://www.keybr.com/][Keybr - Learn Touch Typing]] - Choose layout
 + Chorded Keyboards
  - [[http://www.asetniop.com][ASETNIOP: Chorded Keyboard Replacement Method]]
 
