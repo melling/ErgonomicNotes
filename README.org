@@ -177,6 +177,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[https://www.leapmotion.com][Leap Motion]] (leapmotion.com) [Hand Gestures]
 + [[https://www.thalmic.com/en/myo/][Myo]] (thalmic.com) [Arm band for gestures]
 + [[http://www.youtube.com/watch?v=0QNiZfSsPc0][Google's Soli chip - 2016]]
++ [[http://fingerio.cs.washington.edu][FingerIO]]
 
 ** Misc
 + [[https://www.kickstarter.com/projects/86285180/the-roost-saving-your-neck-and-back-from-your-lapt][Roost Kickstarter Project]] (kickstarter.com) [Laptop stand]
