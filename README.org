@@ -47,6 +47,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + http://sepwww.stanford.edu/sep/jon/sorehand.html
 + http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi
 + http://timboontech.blogspot.co.uk/2011/09/preventing-rsi-part-1.html
++ [[https://github.com/Takohi-Jona/OctoMouse][OctoMouse]] open-source application for MAC OSX that measures your mouse and keyboard activities
 
 * RSI Articles
 
