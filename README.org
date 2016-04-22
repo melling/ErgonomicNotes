@@ -103,6 +103,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[http://ux.mit.edu/atic/rsi/needtoknow][RSI: What you absolutely need to know]] (ux.mit.edu)
 + [[http://articles.marco.org/161][Hello, this is RSI. Nice to meet you.]] (marco.org) (2005-10-16)
 + [[http://blog.yitang.uk/2015/07/19/repetitive-strain-injury][My Experience with Repetitive Strain Injury (RSI)]] (2015-07-19)
++ [[https://josephhall.org/nqb/archives/000277.html][Dealing with RSI... Push-ups]] (2004-05-14)
 + [[https://www.usenix.org/legacy/event/lisa99/practicum/harris/harris.html/][Look, Ma, no hands! Coping with Repetitive Strain Injury - Trey Harris]] (usenix.org) (2000-01-10)
 + [[http://www.rsihelp.com][Deborah Quilter's RSIhelp.com]]
 
