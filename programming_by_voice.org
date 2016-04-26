@@ -37,6 +37,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - https://news.ycombinator.com/item?id=10103339
  - [[http://berlin.csie.ntnu.edu.tw/Courses/Speech%20Recognition/Lectures2013/SP2013F_Lecture14-Introduction%20to%20the%20Kaldi%20toolkit.pdf][An Introduction to the Kaldi Speech Recognition Toolkit]]
  - [[https://sites.google.com/site/dpovey/kaldi-lectures][Speech recognition with Kaldi lectures]]
+ - https://www.slideshare.net/mobile/xanguera/kaldivoice-your-personal-speech-recognition-server-using-open-source-code
 
 * Dragon Dictate
 ** Commands
