@@ -169,6 +169,7 @@ click from the keys bottoming out and from releasing the key.
 * Foot Pedals
 + [[http://news.ycombinator.com/item?id=10184555][DIY control pedal on Linux]]
 + [[http://www.quietpc.com/usb-footswitch][Foot Switch]]
++ http://xahlee.info/kbd/kinesis_foot_pedal.html
 
 #+BEGIN_COMMENT
 [–]hydrox24 1 point 1 year ago* 
