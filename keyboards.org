@@ -157,7 +157,8 @@ click from the keys bottoming out and from releasing the key.
   + [[http://openstenoproject.org][The Open Steno Project]]
 + Misc
  - + [[https://github.com/shaaniqbal/T9-QWERTY/][T9-QWERTY - The Ultra Efficient Minimal Motion Keyboard System]] (github.com)
-
+ - [[http://phys.org/news/2016-02-ten-fingers-fast.html][Ten fingers not needed for fast typing, study shows]]
+ 
 * Key Caps
 + pbt vs abs
 + ABS is cheaper and gets shiny over time
