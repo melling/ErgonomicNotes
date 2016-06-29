@@ -155,6 +155,7 @@ click from the keys bottoming out and from releasing the key.
   + [[http://stenoknight.com/wiki/Main_Page][Plover Wiki - the world's first free, open source stenography engine]] (stenoknight.com)
    - [[http://youtu.be/jRFKZGWrmrM][Coding Python with Plover]]
   + [[http://openstenoproject.org][The Open Steno Project]]
+  + [[http://www.billbuxton.com/input06.ChordKeyboards.pdf][CASE STUDY 2: CHORD KEYBOARDS]]
 + Misc
  - + [[https://github.com/shaaniqbal/T9-QWERTY/][T9-QWERTY - The Ultra Efficient Minimal Motion Keyboard System]] (github.com)
  - [[http://phys.org/news/2016-02-ten-fingers-fast.html][Ten fingers not needed for fast typing, study shows]]
