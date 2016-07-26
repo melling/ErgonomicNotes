@@ -52,6 +52,8 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 * RSI Articles
 
++ [[https://levels.io/rsi/][We have an epidemic of bad posture]] (2016-07-26)
+ - https://news.ycombinator.com/item?id=12166415
 + [[http://techdistortion.com/podcasts/pragmatic/episode-50-accidental-clicking][Episode 50: Accidental Clicking]] (techdistortion.com) (2014-12-23)
  - John Siracusa is the guest
  - At 26m explains that it's really hard to get a diagnosis for the actual problem
