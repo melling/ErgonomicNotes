@@ -45,6 +45,8 @@ Table of Contents: [[actuation-forces][Actuation Forces]] | [[#alternate-keyboar
 + CODE  keyboard 
  - http://codekeyboards.com
  - http://news.ycombinator.com/item?id=9289634
++ dactyl 
+ - https://github.com/adereth/dactyl-keyboard
 + DataHand
  - http://octopup.org/computer/datahand
 + Dodohand - Open source project to recreate the DataHand
