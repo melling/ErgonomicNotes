@@ -143,6 +143,9 @@ click from the keys bottoming out and from releasing the key.
  - [[http://www.amazon.com/dp/B00IPGZC54/][Labels]]
 + [[https://normanlayout.info/][Norman]]
 + http://www.reddit.com/r/dvorak/comments/3k6jfq/hi_17_yo_student_never_learned_how_to_touch_type
++ QGMLWB
+ - http://mkweb.bcgsc.ca/carpalx/?full_optimization
+ - https://www.reddit.com/r/programming/comments/c2oc6/the_optimal_qgmlwb_keyboard/
 + Workman
  - [[http://www.workmanlayout.com/blog/][The Workman Keyboard Layout Philosophy]] (2010-10-06)
  - http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts
