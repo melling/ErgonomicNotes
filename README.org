@@ -66,6 +66,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
   + At 1:26 Keyboard layouts
  - At 1:36:10 Is it all in your head?
   + At 1:37:10 http://ergocanada.com/products/keyboards/fingerworks_lp.html - Fingerworks Touchstream
++ [[https://medium.com/@benjiwheeler/what-to-do-when-typing-hurts-e0ac3456a712][What to do when typing hurts]] (2015-11-20)
 + [[http://looknohands.me][Look No Hands]] (looknohands.me) (2014-12-28)
 + [[http://24ways.org/2014/dont-push-through-the-pain/][Don’t Push Through the Pain]] (24ways.org) (2014-12-06)
 + [[http://markmcb.com/2014/10/13/severe-hand-rsi-pain-and-recovery/][Severe Hand RSI Pain and Recovery]] (markmcb.com) (2014-10-13)
