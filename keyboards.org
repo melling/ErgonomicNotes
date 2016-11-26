@@ -14,6 +14,7 @@ Table of Contents: [[actuation-forces][Actuation Forces]] | [[#alternate-keyboar
 [1] [[http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html][Comparing Mechanical, Membrane and Scissor-Switch Membrane Keyboards - Ergonomic Considerations of Keyswitch Type]] | [[#Mechanical-Switches][Mechanical Switches]]
 
 * Keyboard Discussions
++ [[http://ivanwfr.github.io/Twiddler3-Layout/][Twiddler]]
 + [[https://medium.com/@tartavull/thor-your-next-keyboard-20b9ce7dd2b1][A keyboard for your back]]
 + [[http://esr.ibiblio.org/?p=4975%E2%80%8E][Keyboards are not a Detail]]
 + http://www.reddit.com/r/MechanicalKeyboards/wiki/buying_guide
