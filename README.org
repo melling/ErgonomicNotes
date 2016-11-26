@@ -52,7 +52,8 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 + [[https://github.com/madeleineudell/homepage/blob/master/lifeskills/rsi.md][Overcoming (and preventing) RSI]]
 
 * RSI Articles
-
++ [[https://codewithoutrules.com/2016/11/18/rsi-solution/][How I stopped the RSI pain that almost destroyed my programming career]]
+ - https://news.ycombinator.com/item?id=12986759
 + [[https://levels.io/rsi/][We have an epidemic of bad posture]] (2016-07-26)
  - https://news.ycombinator.com/item?id=12166415
 + [[http://techdistortion.com/podcasts/pragmatic/episode-50-accidental-clicking][Episode 50: Accidental Clicking]] (techdistortion.com) (2014-12-23)
