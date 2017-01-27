@@ -12,6 +12,9 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
  - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
  - [[https://github.com/kaldi-asr/kaldi][Kaldi]]
+ - Pretrained Models:
+  + http://cmusphinx.sourceforge.net/2014/09/lium-releases-tedlium-corpus-version-2/ - tedlium
+  + http://www.openslr.org/12/ - librispecch
 + [[http://voicecode.io][VoiceCode]]
  -  [[https://youtu.be/77zPOyMmMPQ][VoiceCode: AceJump / EasyMotion mode]]
 + [[https://www.youtube.com/watch?v=WAitSilLDUA][Thomas Ballinger - Terminal whispering - PyCon 2015]]
