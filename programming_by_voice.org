@@ -9,6 +9,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 
 + https://www.reddit.com/r/speechrecognition/comments/5p3uxb/programming_using_speech_recognition/
  - The Eleventh HOPE (2016): Coding by Voice with Open Source Speech Recognition
+ - Silvius: http://voxhub.io/silvius
  - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
  - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
  - [[https://github.com/kaldi-asr/kaldi][Kaldi]]
