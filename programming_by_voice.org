@@ -7,6 +7,7 @@
 
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]] | [[file:standing_desks.org][Standing Desks]]
 
++ https://www.reddit.com/r/speechrecognition/comments/5p3uxb/programming_using_speech_recognition/
 + [[http://voicecode.io][VoiceCode]]
  -  [[https://youtu.be/77zPOyMmMPQ][VoiceCode: AceJump / EasyMotion mode]]
 + [[https://www.youtube.com/watch?v=WAitSilLDUA][Thomas Ballinger - Terminal whispering - PyCon 2015]]
