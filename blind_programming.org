@@ -1,6 +1,12 @@
+#+STARTUP: showall
+#+TITLE: Blind Programming
+#+AUTHOR: http://h4labs.com, melling@h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:standing_desks.org][Standing Desks]] | [[file:blind_programming.org][Blind Programming]]
 
 # Inbox
 + https://stackoverflow.com/questions/118984/how-can-you-program-if-youre-blind
 + [[https://news.ycombinator.com/item?id=14347908][How a Blind Developer Uses Visual Studio]]
++ http://www.freedomscientific.com/Products/Blindness/JAWS
