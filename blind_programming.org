@@ -1,0 +1,6 @@
+
+Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:standing_desks.org][Standing Desks]] | [[file:blind_programming.org][Blind Programming]]
+
+# Inbox
++ https://stackoverflow.com/questions/118984/how-can-you-program-if-youre-blind
++ [[https://news.ycombinator.com/item?id=14347908][How a Blind Developer Uses Visual Studio]]
