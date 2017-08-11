@@ -133,7 +133,7 @@ click from the keys bottoming out and from releasing the key.
 
 #+NAME: layouts
 * Alternate Keyboard Layouts
-
++ http://mkweb.bcgsc.ca/carpalx/? - Carpal X Keyboard Layout Analyzer
 + [[http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html][Keyboard Layouts Fight! Dvorak, Colemak, Workman, NEO, Bépo, …]] (2014-09-10)
 + Colemak
  - http://colemak.com
