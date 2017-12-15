@@ -26,6 +26,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + http://www.massdrop.com/buy/cst-lasertrac-trackball
 + http://www.amazon.com/Kensington-K72327US-SlimBlade-Trackball-Mouse/dp/B001MTE32Y
 + http://day9.tv/d/Day9/day9-daily-252-secrets-of-hotkeys-apm-and-mouse-movement
++ [[http://www.compusult.net/assistive-technology/our-at-products/jouse3][Jouse 3]] $1400 mouth mouse - "move the precision joystick with your mouth, cheek, chin or tongue"
 
 * Trackballs
 + http://www.amazon.com/Kensington-Orbit-Trackball-Mouse-Scroll/dp/B002OOWB3O
