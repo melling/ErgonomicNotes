@@ -17,6 +17,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
  - [[https://github.com/kaldi-asr/kaldi][Kaldi]]
  - [[https://groups.google.com/forum/m/#!forum/silvius][Mailing List]]
+ - 16k audio is important.  A lot of microphones, and cell phones, only do 8k audio.
  - Pretrained Models:
   + http://cmusphinx.sourceforge.net/2014/09/lium-releases-tedlium-corpus-version-2/ - tedlium
   + http://www.openslr.org/12/ - librispecch
