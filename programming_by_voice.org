@@ -14,6 +14,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
  - myelin sheath issues common with programmers and musicians - repetitive fine movements cause problems
  - Silvius: http://voxhub.io/silvius
  - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
+ - [[https://youtu.be/YRyYIIFKsdU?t=9m9s][Hello Word in C]]
  - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
  - [[https://github.com/kaldi-asr/kaldi][Kaldi]]
  - [[https://groups.google.com/forum/m/#!forum/silvius][Mailing List]]
