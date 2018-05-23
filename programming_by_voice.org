@@ -7,6 +7,7 @@
 
 Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]] | [[file:standing_desks.org][Standing Desks]]
 
++ [[Talon Voice][https://talonvoice.com]]
 + http://handsfreecoding.org
 + https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/
  - https://medium.com/@shortformernie/plato-mahjong-shanghai-brodie-lockard-104b2a405e79
