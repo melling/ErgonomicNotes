@@ -186,6 +186,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
  - http://www.naturalpoint.com/smartnav/
 + http://www.tobii.com
 + http://eyefluence.com
++ [[https://precisiongazemouse.com/][Precision Gaze Mouse]]
 
 ** Gesture Computing
 + [[http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html][Intel Real Sense]]
