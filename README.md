@@ -8,64 +8,63 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 ## Checklist - Various Things People Have Tried
 
+
 |Technique|Comments|Other|
-|---
-|Acupuncture||
+|---------|--------|-----|
+|Acupuncture|||
 |Alexander technique|https://en.m.wikipedia.org/wiki/Alexander_technique||
-|Biofeedback|Identify muscle tension and reduce it|
-|Exercise (various)|e.g. weightlifting|
-|Hot bath/shower|Some say it provides temporary relief |
-|Mind Body Approach|Mind causes oxygen deprivation?|
-|Nerve Flossing & Tensioning||
-|Posture Adjustments||
-|Pushups||
-|Physiotherapist|https://en.m.wikipedia.org/wiki/Physical_therapy||
-|Standing Desk|eliminates bad posture?|
-|Stretching||
-|Swimming||
-|Switch Keyboard Layout|[Dvorak](http://xahlee.info/comp/dvorak_keyboard_layout.html)/ [Colemak](http://colemak.com)|Fingers move less.  Home row contains frequently used keys|
-|Switch Keyboard|Mechanical/Kinesis/Split/Tented|[Introduction to Ergonomic Keyboards](https://h4labs.wordpress.com/2015/07/16/the-model-01-an-heirloom-grade-keyboard-for-serious-typists)/ [The Most Comfortable Ergonomic Keyboard](http://thewirecutter.com/reviews/comfortable-ergo-keyboard)|
-|Switch Mouse||
-|Trigger Point Therapy|Treat knots in muscles|Physiotherapist treats|
-|Yoga||
+|Biofeedback|Identify muscle tension and reduce it|||
+|Exercise (various)|e.g. weightlifting||
+|Hot bath/shower|Some say it provides temporary relief ||
+|Mind Body Approach|Mind causes oxygen deprivation?||
+|Nerve Flossing & Tensioning|||
+|Posture Adjustments|||
+|Pushups|||
+|Physiotherapist|https://en.m.wikipedia.org/wiki/Physical_therapy|||
+|Standing Desk|eliminates bad posture?||
+|Stretching|||
+|Swimming|||
+|Switch Keyboard Layout|[Dvorak](http://xahlee.info/comp/dvorak_keyboard_layout.html)/ [Colemak](http://colemak.com)|Fingers move less.  Home row contains frequently used keys||
+|Switch Keyboard|Mechanical/Kinesis/Split/Tented|[Introduction to Ergonomic Keyboards](https://h4labs.wordpress.com/2015/07/16/the-model-01-an-heirloom-grade-keyboard-for-serious-typists)/ [The Most Comfortable Ergonomic Keyboard](http://thewirecutter.com/reviews/comfortable-ergo-keyboard)||
+|Switch Mouse|||
+|Trigger Point Therapy|Treat knots in muscles|Physiotherapist treats||
+|Yoga|||
 
 ## Inbox
 
 - [OptiKey](http://github.com/JuliusSweetland/OptiKey/wiki)
 - [Work-related repetitive strain injury and leisure-time physical activity](http://www.ncbi.nlm.nih.gov/pubmed/17394178)
 - [reddit - Effects of keyboard tray geometry on upper body posture and comfort](http://www.reddit.com/r/RSI/comments/3efbj1/effects_of_keyboard_tray_geometry_on_upper_body)
-+ Hot-cold contrast baths 1 to 4 times a day.
+- Hot-cold contrast baths 1 to 4 times a day.
 - [Classical Musicians Suffer for Their Art](http://www.wsj.com/articles/SB117020048251292936) (wsj)
-+ http://www.healthline.com/health/tenosynovitis#Causes2
+- http://www.healthline.com/health/tenosynovitis#Causes2
 - [HN User Recommends Blue Switches](http://news.ycombinator.com/item?id=8485497)
-+ http://thewirecutter.com/reviews/comfortable-ergo-keyboard/#Ergonomics
+- http://thewirecutter.com/reviews/comfortable-ergo-keyboard/#Ergonomics
 - [HN - One year with the Truly Ergonomic keyboard](http://news.ycombinator.com/item?id=9605262)
-+ http://matt.might.net/articles/preventing-and-managing-rsi
-+ http://sepwww.stanford.edu/sep/jon/sorehand.html
-+ http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi
-+ http://timboontech.blogspot.co.uk/2011/09/preventing-rsi-part-1.html
+- http://matt.might.net/articles/preventing-and-managing-rsi
+- http://sepwww.stanford.edu/sep/jon/sorehand.html
+- http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi
+- http://timboontech.blogspot.co.uk/2011/09/preventing-rsi-part-1.html
 - [OctoMouse](https://github.com/Takohi-Jona/OctoMouse) open-source application for MAC OSX that measures your mouse and keyboard activities
 - [Overcoming (and preventing) RSI](https://github.com/madeleineudell/homepage/blob/master/lifeskills/rsi.md)
 
-* RSI Articles
+## RSI Articles
 - [How I stopped the RSI pain that almost destroyed my programming career](https://codewithoutrules.com/2016/11/18/rsi-solution/)
  - https://news.ycombinator.com/item?id=12986759
 - [We have an epidemic of bad posture](https://levels.io/rsi/) (2016-07-26)
   - https://news.ycombinator.com/item?id=12166415
 - [Episode 50: Accidental Clicking](http://techdistortion.com/podcasts/pragmatic/episode-50-accidental-clicking) (techdistortion.com) (2014-12-23)
- - John Siracusa is the guest
- - At 26m explains that it's really hard to get a diagnosis for the actual problem
- - At 27m explains how the problem might not even be in your hands, it could be in your shoulder, for example, but you might feel the pain in your hands.
- - At 1:16:25 keyboard discussion
-  + Mechanical keyboards have 2mm actuation and bottom out at 4mm
-  + IBM buckling spring actuation force is 65g.  2.3mm to 3.7mm actuation
-  + Alps/Mitsumi - 3.5mm travel distance 
-  + At 1:19:25 Mac keyboard actuation force is 65g, actuation distance is 1-2mm. Scissor switch over rubber dome. pentagraph
-  + At 1:26 Keyboard layouts
- - At 1:36:10 Is it all in your head?
-  + At 1:37:10 http://ergocanada.com/products/keyboards/fingerworks_lp.html - Fingerworks Touchstream
-
-
+   - John Siracusa is the guest
+   - At 26m explains that it's really hard to get a diagnosis for the actual problem
+   - At 27m explains how the problem might not even be in your hands, it could be in your shoulder, for example, but you might feel the pain in your hands.
+   - At 1:16:25 keyboard discussion
+      - Mechanical keyboards have 2mm actuation and bottom out at 4mm
+      - IBM buckling spring actuation force is 65g.  2.3mm to 3.7mm actuation
+      - Alps/Mitsumi - 3.5mm travel distance 
+   - At 1:19:25 Mac keyboard actuation force is 65g, actuation distance is 1-2mm. Scissor switch over rubber dome. pentagraph
+   - At 1:26 Keyboard layouts
+   - At 1:36:10 Is it all in your head?
+   - At 1:37:10 http://ergocanada.com/products/keyboards/fingerworks_lp.html - Fingerworks Touchstream
 - [What to do when typing hurts](https://medium.com/@benjiwheeler/what-to-do-when-typing-hurts-e0ac3456a712) (2015-11-20)
 - [Look No Hands](http://looknohands.me) (looknohands.me) (2014-12-28)
 - [Don’t Push Through the Pain](http://24ways.org/2014/dont-push-through-the-pain/) (24ways.org) (2014-12-06)
@@ -85,16 +84,6 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 - [Topic: mechanical keyboard vs regular keyboard.(hand fatigue)](http://geekhack.org/index.php?topic=27940.0) (geekhack.org) (2012-02-27)
 - [Advice for RSI sufferer](http://geekhack.org/index.php?topic=18306.0) (geekhack.org) (2011-05-23)
 - [How I Beat Repetitive Stress Injury](http://henrikwarne.com/2012/02/18/how-i-beat-rsi/) (henrikwarne.com) (2012-02-18)
-
-### The Mind Body Approach - Dr. John Sarno
-
- - The theory says that your mind is restricting blood flow to other parts of your body to deal with stress, for instance. Just the fact that people learn this is usually enough for them to stop their minds from doing this.
- - [The Mind/Body Approach: What is RSI?](http://www.rsi.deas.harvard.edu/mb_what_is.html)
- - [How I Cured my RSI Pain](http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html) (aaroniba.net) (2010-03-09)
- - [My Back Pain Story](http://www.pgbovine.net/back-pain-guest-article.htm)
- - [20/20 Segment](http://m.youtube.com/watch?v=vsR4wydiIBI)
- - [Rachel's RSI homage to Dr. John Sarno](http://podolsky.everybody.org/rsi)
- - [My battle with RSI](http://www.wilforbis.com/pages/rsi.htm) (2012-08-30)
 - [Jason Rennie's Wrist Tendonitis and RSI Pensieve](http://qwone.com/~jason/log/tendonitis.html) (qwone.com) (2006-07-21)
 - [Musicians and Repetitive Strain Injuries (RSI) — How to Practice Hard and Stay Healthy](http://blog.discmakers.com/2012/04/musicians-and-repetitive-strain-injuries-rsi-how-to-practice-hard-and-stay-healthy-2/) (blog.discmakers.com) (2012-04-10)
 - [My experience with RSI](http://www.cs.princeton.edu/~arora/RSI.html) (www.cs.princeton.edu) (2007-08-01)
@@ -112,6 +101,17 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 - [Look, Ma, no hands! Coping with Repetitive Strain Injury - Trey Harris](https://www.usenix.org/legacy/event/lisa99/practicum/harris/harris.html/) (usenix.org) (2000-01-10)
 - [Deborah Quilter's RSIhelp.com](http://www.rsihelp.com)
 
+
+#### The Mind Body Approach - Dr. John Sarno
+
+ - The theory says that your mind is restricting blood flow to other parts of your body to deal with stress, for instance. Just the fact that people learn this is usually enough for them to stop their minds from doing this.
+ - [The Mind/Body Approach: What is RSI?](http://www.rsi.deas.harvard.edu/mb_what_is.html)
+ - [How I Cured my RSI Pain](http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html) (aaroniba.net) (2010-03-09)
+ - [My Back Pain Story](http://www.pgbovine.net/back-pain-guest-article.htm)
+ - [20/20 Segment](http://m.youtube.com/watch?v=vsR4wydiIBI)
+ - [Rachel's RSI homage to Dr. John Sarno](http://podolsky.everybody.org/rsi)
+ - [My battle with RSI](http://www.wilforbis.com/pages/rsi.htm) (2012-08-30)
+ 
 ## Editors
 
 ### Misc
@@ -270,7 +270,7 @@ Reverse flyes
 
 
 
-#+BEGIN_COMMENT
+## BEGIN_COMMENT
 
 Better predictive type in sublime?
 http://rsi.unl.edu/providers/newyork.html
@@ -319,11 +319,8 @@ http://www.ebay.com/itm/Medi-active-wrist-brace-medium-black-left-/221419318052
 
 Casey doesn't have abducted thumbs in his braces
 
-#+END_COMMENT
 
-#+BEGIN_COMMENT
-
-Keyboard layouts
+### Keyboard layouts
 http://lifebyexperimentation.com/2013/08/learn-dvorak/?
 
 http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html
@@ -340,7 +337,6 @@ https://gist.github.com/datagrok/8130501
  Cherry MX browns, which are very quiet at the point of actuation. They will click from the keys bottoming out and from releasing the key
 #+END_COMMENT
 
-#+BEGIN_COMMENT
 
 https://news.ycombinator.com/item?id=8808059
 Diffuse RSI - Means they can't find a medical reason
