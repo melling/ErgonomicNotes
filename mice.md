@@ -1,15 +1,12 @@
-#+STARTUP: showall
-#+TITLE: Ergonomic Computer Mice
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Ergonomic Computer Mice
 
-#+INCLUDE: "ergo_menu.org"
-Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic Mice]] | [[file:programming_by_voice.org][Programming by Voice]] | [[file:README.org][RSI]] | [[file:standing_desks.org][Standing Desks]]
+Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Programming by Voice](programming_by_voice.md) | [Standing Desks](standing_desks.md) | [Blind Programming](blind_programming.md)
 
-* Mice
-+ [[http://ergo.contour-design.com/ergonomic-mouse/rollermouse-free2][RollerMouse Free2]]
+## Mice
+
+- [RollerMouse Free2](http://ergo.contour-design.com/ergonomic-mouse/rollermouse-free2)
 + http://nod.com
-+ [[http://www.penclic.se/en/][Penclic Mouse]]
+- [Penclic Mouse](http://www.penclic.se/en/)
 + http://us.battle.net/d3/en/forum/topic/5149150151
 + http://www.amazon.co.uk/Wireless-Vertical-Ergonomic-Optical-1600DPI/dp/B00BIFNTMC/
 + http://www.evoluent.com
@@ -17,7 +14,7 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + http://www.amazon.co.uk/Precision-Ergonomic-Upright-201cErgo-201d-suitable/dp/B003ZK73WK
 + http://www.kickstarter.com/projects/mycestro/mycestrotm-the-next-generation-3d-mouse
 + http://www.kickstarter.com/projects/70308014/kings-assembly-a-computer-mouse-full-of-awesome
-+ [[https://geekhack.org/index.php?topic=46128.0][Anker Wired Vertical Mouse Review]]
+- [Anker Wired Vertical Mouse Review](https://geekhack.org/index.php?topic=46128.0)
 + handheld touchpad Perixx
 + thumb-operated trackball
 + Kensington Expert Mouse
@@ -26,8 +23,9 @@ Menu: [[file:keyboards.org][Ergonomic Keyboards]] | [[file:mice.org][Ergonomic M
 + http://www.massdrop.com/buy/cst-lasertrac-trackball
 + http://www.amazon.com/Kensington-K72327US-SlimBlade-Trackball-Mouse/dp/B001MTE32Y
 + http://day9.tv/d/Day9/day9-daily-252-secrets-of-hotkeys-apm-and-mouse-movement
-+ [[http://www.compusult.net/assistive-technology/our-at-products/jouse3][Jouse 3]] $1400 mouth mouse - "move the precision joystick with your mouth, cheek, chin or tongue"
+- [Jouse 3](http://www.compusult.net/assistive-technology/our-at-products/jouse3) $1400 mouth mouse - "move the precision joystick with your mouth, cheek, chin or tongue"
 
-* Trackballs
+## Trackballs
+
 + http://www.amazon.com/Kensington-Orbit-Trackball-Mouse-Scroll/dp/B002OOWB3O
-+ http://www.logitech.com/en-us/product/trackman-marble
++ [Trackman Marble](http://www.logitech.com/en-us/product/trackman-marble)
