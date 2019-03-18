@@ -9,17 +9,18 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
 
 ## Silvius
 
- - https://www.reddit.com/r/speechrecognition/comments/5p3uxb/programming_using_speech_recognition/
- - The Eleventh HOPE (2016): Coding by Voice with Open Source Speech Recognition
- - myelin sheath issues common with programmers and musicians - repetitive fine movements cause problems
- - [Silvius](http://voxhub.io/silvius)
- - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
- - [Hello Word in C](https://youtu.be/YRyYIIFKsdU?t=9m9s)
- - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
- - [Kaldi](https://github.com/kaldi-asr/kaldi)
- - [Mailing List](https://groups.google.com/forum/m/#!forum/silvius)
- - 16k audio is important.  A lot of microphones, and cell phones, only do 8k audio.
- - Pretrained Models:
+- https://www.reddit.com/r/speechrecognition/comments/5p3uxb/programming_using_speech_recognition/
+- The Eleventh HOPE (2016): Coding by Voice with Open Source Speech Recognition
+    - myelin sheath issues common with programmers and musicians - repetitive fine movements cause problems
+    - [Silvius](http://voxhub.io/silvius)
+    - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
+    - [Hello Word in C](https://youtu.be/YRyYIIFKsdU?t=9m9s)
+    - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
+    - [Kaldi](https://github.com/kaldi-asr/kaldi)
+    - [Mailing List](https://groups.google.com/forum/m/#!forum/silvius)
+    - 16k audio is important.  A lot of microphones, and cell phones, only do 8k audio.
+    
+- Pretrained Models:
   + http://cmusphinx.sourceforge.net/2014/09/lium-releases-tedlium-corpus-version-2/ - tedlium
   + http://www.openslr.org/12/ - librispecch
 - [VoiceCode](http://voicecode.io)
@@ -33,9 +34,9 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
  - (http://www.dailymotion.com/video/x2rr3ms)[VimSpeak Demo - VimGolf using only voice]
 
 
- - [Speech Grammars in F#](https://blogs.msdn.microsoft.com/ashleyf/2013/09/19/speech-grammars-in-f/)
+- [Speech Grammars in F#](https://blogs.msdn.microsoft.com/ashleyf/2013/09/19/speech-grammars-in-f/)
 - [Programming by Voice: Staying Productive without Harming Yourself](http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself) (extrahop.com) (2014-10-20)
-   - [HN: Programming by Voice: Staying Productive Without Harming Yourself](http://news.ycombinator.com/item?id=8484847)
+    - [HN: Programming by Voice: Staying Productive Without Harming Yourself](http://news.ycombinator.com/item?id=8484847)
 - [Using Voice to Code Faster than Keyboard](http://ergoemacs.org/emacs/using_voice_to_code.html) (ergoemacs.org) (2013-03-27)
 - [I Used Dictation and Voice Control for a Week. Here's What Happened](http://lifehacker.com/i-used-dictation-and-voice-control-for-a-week-heres-wh-1683878052)
 - [Speech Recognition & Programming](http://stackoverflow.com/questions/1408874/speech-recognition-programming?rq=1) (stackoverflow.com)
@@ -43,7 +44,7 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
 - [How can we use Dragon NaturallySpeaking to code more efficiently?](http://productivity.stackexchange.com/questions/3605/how-can-we-use-dragon-naturallyspeaking-to-code-more-efficiently) (stackoverflow.com)
 - [Voice Recognition Software For Developers](http://stackoverflow.com/questions/87999/voice-recognition-software-for-developers?rq=1) (stackoverflow.com)
 - [Best programming aids for a quadriplegic programmer](http://stackoverflow.com/questions/2710537/best-programming-aids-for-a-quadriplegic-programmer?lq=1) (stackoverflow.com)
-+ [NatI: Multi-language voice control system for Ubuntu written in Python](http://news.ycombinator.com/item?id=8087595)
+- [NatI: Multi-language voice control system for Ubuntu written in Python](http://news.ycombinator.com/item?id=8087595)
 - [Coding Jarvis in Python in 2016](https://ggulati.wordpress.com/2016/02/24/coding-jarvis-in-python-3-in-2016)
    - [HN Discussion](https://news.ycombinator.com/item?id=11172727)
 - [Type, edit and format with your voice in Docs—no keyboard needed!](http://googledocs.blogspot.com/2016/02/type-edit-and-format-with-your-voice-in.html)
