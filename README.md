@@ -49,8 +49,9 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 - [Overcoming (and preventing) RSI](https://github.com/madeleineudell/homepage/blob/master/lifeskills/rsi.md)
 
 ## RSI Articles
+
 - [How I stopped the RSI pain that almost destroyed my programming career](https://codewithoutrules.com/2016/11/18/rsi-solution/)
- - https://news.ycombinator.com/item?id=12986759
+  - https://news.ycombinator.com/item?id=12986759
 - [We have an epidemic of bad posture](https://levels.io/rsi/) (2016-07-26)
   - https://news.ycombinator.com/item?id=12166415
 - [Episode 50: Accidental Clicking](http://techdistortion.com/podcasts/pragmatic/episode-50-accidental-clicking) (techdistortion.com) (2014-12-23)
@@ -119,6 +120,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
  - [How do Emacs, Vim, and various other text editors compare in terms of RSI impact?](http://www.quora.com/How-do-Emacs-Vim-and-various-other-text-editors-compare-in-terms-of-RSI-impact)
 
 ### vim
+
  - [How to remap keyboard to avoid RSI in VIM](http://stackoverflow.com/questions/11443012/how-to-remap-keyboard-keys-to-avoid-rsi-in-vim)
  - [ErgoVIM Key Mappings](http://www.hxa.name/articles/content/ergovim-key-mappings_hxa7241_2010.html)
  - Remap/Avoid ESC Key
@@ -127,12 +129,14 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
    - [Other ways to exit Insert mode besides Escape](http://vi.stackexchange.com/questions/300/other-ways-to-exit-insert-mode-besides-escape)
 
 ### Emacs
+
  - http://xahlee.info/kbd/banish_key_chords.html
  - http://ergoemacs.org/misc/ergoemacs_vi_mode.html
  - http://xahlee.info/kbd/efficiency_of_keybinding_emacs_vs_vim.html
  - [god-mode](https://github.com/chrisdone/god-mode)
 
  #### Emacs Pinky
+ 
    - [HN - Emacs Pinky](https://news.ycombinator.com/item?id=2610467)
    - [StackOverFlow Question](http://stackoverflow.com/questions/52492/what-is-the-best-way-to-avoid-getting-emacs-pinky)
    - [How to Avoid the Emacs Pinky Problem](http://ergoemacs.org/emacs/emacs_pinky.html)
@@ -147,13 +151,13 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 ## Exercises
 
-+ Push-ups
- - [the hundred push ups training program](http://www.hundredpushups.com/) (hundredpushups.com)
-+ Push-ups Plus - Exercise serratus anterior
- - http://youtu.be/jpjn0JM_mi4
- - http://youtu.be/ALzFr2GT-Is
-+ Pull-ups
- - ring rows to pull-up
+- Push-ups
+  - [the hundred push ups training program](http://www.hundredpushups.com/) (hundredpushups.com)
+- Push-ups Plus - Exercise serratus anterior
+  - http://youtu.be/jpjn0JM_mi4
+  - http://youtu.be/ALzFr2GT-Is
+- Pull-ups
+  - ring rows to pull-up
 
 ## Stretches
 
@@ -162,7 +166,7 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 - [Rehabilitation of neck/shoulder muscle pain (RAMIN)](http://www.arbejdsmiljoforskning.dk/en/projekter/rehabilitering-af-muskelsmerter-i-nakken--ramin) (arbejdsmiljoforskning.dk)
 - [Stretches](http://www.rsiwarrior.com/stretches.html) (rsiwarrior.com)
 - [How To Undo The Damage Of Sitting At Your Desk All Day](http://www.refinery29.com/desk-job-health-fixes#slide-1) (refinery29.com)
-+ http://lifehacker.com/this-video-shows-hand-exercises-for-gamers-and-heavy-co-1714892737
+- http://lifehacker.com/this-video-shows-hand-exercises-for-gamers-and-heavy-co-1714892737
 
 ### Stretching Videos
 
@@ -177,19 +181,22 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 ## Nerves
 
-+ Flossing and tensioning the nerve
+- Flossing and tensioning the nerve
 
 ### Ulnar Nerve Exercises - pinky + ring finger - funny bone nerve
- + Ulnar nerve entrapment
- - [@5:04](https://youtu.be/BHfKutz21do?t=5m4s) | [From Beginning](http://youtu.be/BHfKutz21do)
- + Waiter plate exercise.
- + Mask and tilt side-to-side - [Video](http://youtu.be/d85QKyWvrbI)
- + tai-chi motion
 
-### Median Nerve Exercises - thumb + next two fingers 
- - (https://youtu.be/BHfKutz21do?t=2m30s)[@2:30] | (http://youtu.be/BHfKutz21do)[From Beginning]
+ - Ulnar nerve entrapment
+    - [@5:04](https://youtu.be/BHfKutz21do?t=5m4s) | [From Beginning](http://youtu.be/BHfKutz21do)
+ - Waiter plate exercise.
+ - Mask and tilt side-to-side - [Video](http://youtu.be/d85QKyWvrbI)
+ - tai-chi motion
 
-### Radial Nerve Glide Exercises - Extensor muscles -  hand opening motion 
+### Median Nerve Exercises - thumb + next two fingers
+
+ - [@2:30](https://youtu.be/BHfKutz21do?t=2m30s) | [From Beginning](http://youtu.be/BHfKutz21do)
+
+### Radial Nerve Glide Exercises - Extensor muscles -  hand opening motion
+
  - [Video](http://youtu.be/gPXMX4nGNJI)
  - [Stretching Video](http://youtu.be/fdD7CgN5FGg)
 
@@ -199,8 +206,8 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 - [SmartNav](https://asstech.wordpress.com/2012/10/19/smartnav/) (asstech.wordpress.com)
  - http://www.naturalpoint.com/smartnav/
-+ http://www.tobii.com
-+ http://eyefluence.com
+- http://www.tobii.com
+- http://eyefluence.com
 
 ### Gesture Computing
 
@@ -215,38 +222,34 @@ Please note that there is no agreed upon cause of RSI (repetitive stress injury)
 
 - [Roost Kickstarter Project - Laptop stand](https://www.kickstarter.com/projects/86285180/the-roost-saving-your-neck-and-back-from-your-lapt)
 - [Story of Roost](http://www.reddit.com/r/IAmA/comments/1fkxg1/lost_ability_to_type_on_a_keyboard_at_age_26/) (reddit.com)
-+ http://www.nouse.ca 
- - technology that allows users to work with a computer hands-free using only a webcam and the movement of their nose
-+ http://www.cameramouse.org/index.html
-+ http://dominicwilcox.com/portfolio/finger-nose-stylus/
+- http://www.nouse.ca 
+  - technology that allows users to work with a computer hands-free using only a webcam and the movement of their nose
+- http://www.cameramouse.org/index.html
+- http://dominicwilcox.com/portfolio/finger-nose-stylus/
 - [10 Pack of Pink, Blue, Purple, Red, Black Stylus Universal Touch Screen Capacitive Pen for Kindle Touch, iPad, iPhone](http://www.amazon.com/Purple-Stylus-Universal-Screen-Capacitive/dp/B0075XYS4E/) - Cheap and effective styli.
 
 ## Ergonomic Chairs
 
-+ Steelcase Leap
+- Steelcase Leap
 
 ## Posture
-
-#+BEGIN_COMMENT
 
 Often shoulder and neck exercises can help with the problems.
 
 
-	Shoulder shrugs
+Shoulder shrugs
 5. Shoulder abduction - 
 One arm row - back exercise
 
 Reverse flyes 
 
 
-#+END_COMMENT
-
 
 
 ## Wrist Braces
 
 - (http://www.amazon.com/Mueller-Fitted-Wrist-Brace-Medium/dp/B0027VGB4Y/ref=pd_sim_sbs_k_3?ie=UTF8&refRID=1F5BJ2ESYP1QH03HVA60)[Mueller-Fitted-Wrist-Brace]
-+ http://www.amazon.com/Imak-Smart-Glove-Thumb-Support/dp/B001G7QUUU
+- http://www.amazon.com/Imak-Smart-Glove-Thumb-Support/dp/B001G7QUUU
 	
 
 ## Tools
@@ -264,8 +267,8 @@ Reverse flyes
 
 ### Misc
 
-+ https://code.google.com/p/autokey/
-+ http://www.nasa.gov/home/hqnews/2004/mar/HQ_04093_subvocal_speech.html
+- https://code.google.com/p/autokey/
+- http://www.nasa.gov/home/hqnews/2004/mar/HQ_04093_subvocal_speech.html
 - [Muscle Sensor v3 Kit](https://www.sparkfun.com/products/11776) (sparkfun.com)
 
 
@@ -296,7 +299,6 @@ Advil - ibuprofen
 
 
 http://www.theregister.co.uk/2006/02/22/text_injury/
-http://www.dailymail.co.uk/health/article-1278667/Numb-hands-fingers-wont-work--texting-tendons.html
 
 
 flexor tendinitis
@@ -321,18 +323,17 @@ Casey doesn't have abducted thumbs in his braces
 
 
 ### Keyboard layouts
-http://lifebyexperimentation.com/2013/08/learn-dvorak/?
 
-http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html
+- http://lifebyexperimentation.com/2013/08/learn-dvorak/?
+- http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html
+- http://www.anandtech.com/show/7125/kinesis-advantage-review-longterm-evaluation
+- http://www.anandtech.com/show/6819/truly-ergonomic-computer-keyboard-review-one-month-with-the-teck
 
-http://www.anandtech.com/show/7125/kinesis-advantage-review-longterm-evaluation
-http://www.anandtech.com/show/6819/truly-ergonomic-computer-keyboard-review-one-month-with-the-teck
 
+### ErgoDox
 
-ErgoDox
-
-http://jjt.io/2013/11/25/why-any-developer-should-check-out-the-ergodox-keyboard/
-https://gist.github.com/datagrok/8130501
+- http://jjt.io/2013/11/25/why-any-developer-should-check-out-the-ergodox-keyboard/
+- https://gist.github.com/datagrok/8130501
 
  Cherry MX browns, which are very quiet at the point of actuation. They will click from the keys bottoming out and from releasing the key
 #+END_COMMENT
