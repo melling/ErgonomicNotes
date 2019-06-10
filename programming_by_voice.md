@@ -3,7 +3,7 @@
 Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Programming by Voice](programming_by_voice.md) | [Standing Desks](standing_desks.md) | [Blind Programming](blind_programming.md)
 
 - [Talon](https://talonvoice.com)
-- [Caster](https://caster.readthedocs.io/en/latest/README/)
+- [Caster](https://caster.readthedocs.io/en/latest/)
   - https://github.com/synkarius/caster
 - http://handsfreecoding.org
 - https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/
