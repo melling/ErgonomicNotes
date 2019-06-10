@@ -3,36 +3,37 @@
 Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Programming by Voice](programming_by_voice.md) | [Standing Desks](standing_desks.md) | [Blind Programming](blind_programming.md)
 
 - [Talon](https://talonvoice.com)
-+ http://handsfreecoding.org
-+ https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/
- - https://medium.com/@shortformernie/plato-mahjong-shanghai-brodie-lockard-104b2a405e79
+- http://handsfreecoding.org
+- https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/
+  - https://medium.com/@shortformernie/plato-mahjong-shanghai-brodie-lockard-104b2a405e79
 
 ## Silvius
 
 - https://www.reddit.com/r/speechrecognition/comments/5p3uxb/programming_using_speech_recognition/
 - The Eleventh HOPE (2016): Coding by Voice with Open Source Speech Recognition
-    - myelin sheath issues common with programmers and musicians - repetitive fine movements cause problems
-    - [Silvius](http://voxhub.io/silvius)
-    - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
-    - [Hello Word in C](https://youtu.be/YRyYIIFKsdU?t=9m9s)
-    - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
-    - [Kaldi](https://github.com/kaldi-asr/kaldi)
-    - [Mailing List](https://groups.google.com/forum/m/#!forum/silvius)
-    - 16k audio is important.  A lot of microphones, and cell phones, only do 8k audio.
-    
+   - myelin sheath issues common with programmers and musicians - repetitive fine movements cause problems
+   - [Silvius](http://voxhub.io/silvius)
+   - Good USB microphones: Samson Meteor, Blue Snowball, Blue Yeti
+   - [Hello Word in C](https://youtu.be/YRyYIIFKsdU?t=9m9s)
+   - Great Professional XLR microphones @ 7:30: Shure WH20XLR, Audio-Technica 8HEX
+   - [Kaldi](https://github.com/kaldi-asr/kaldi)
+   - [Mailing List](https://groups.google.com/forum/m/#!forum/silvius)
+   - 16k audio is important.  A lot of microphones, and cell phones, only do 8k audio.  
 - Pretrained Models:
-  + http://cmusphinx.sourceforge.net/2014/09/lium-releases-tedlium-corpus-version-2/ - tedlium
-  + http://www.openslr.org/12/ - librispecch
+  - http://cmusphinx.sourceforge.net/2014/09/lium-releases-tedlium-corpus-version-2/ - tedlium
+  -  http://www.openslr.org/12/ - librispecch
 - [VoiceCode](http://voicecode.io)
   -  [VoiceCode: AceJump / EasyMotion mode](https://youtu.be/77zPOyMmMPQ)
 - [Thomas Ballinger - Terminal whispering - PyCon 2015](https://www.youtube.com/watch?v=WAitSilLDUA)
 
 ### VimSeak
- - (https://www.youtube.com/watch?v=TEBMlXRjhZY)[VimSpeak Demo]
- - https://github.com/AshleyF/VimSpeak
- - https://news.ycombinator.com/item?id=5660633
- - (http://www.dailymotion.com/video/x2rr3ms)[VimSpeak Demo - VimGolf using only voice]
 
+- (https://www.youtube.com/watch?v=TEBMlXRjhZY)[VimSpeak Demo]
+- https://github.com/AshleyF/VimSpeak
+- https://news.ycombinator.com/item?id=5660633
+- (http://www.dailymotion.com/video/x2rr3ms)[VimSpeak Demo - VimGolf using only voice]
+
+## Misc
 
 - [Speech Grammars in F#](https://blogs.msdn.microsoft.com/ashleyf/2013/09/19/speech-grammars-in-f/)
 - [Programming by Voice: Staying Productive without Harming Yourself](http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself) (extrahop.com) (2014-10-20)
@@ -53,18 +54,18 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
 ## Source Code
  
 - [Dictation Toolbox](http://github.com/dictation-toolbox)
- - [A system to allow speech recognition via Dragonfly on one computer to send events to another](https://github.com/dictation-toolbox/aenea)
- - [Dragonfly Scripts](https://github.com/dictation-toolbox/dragonfly-scripts)
- - [Dragonfly](https://github.com/dictation-toolbox/dragonfly)
- - [aenea Grammars - Grammars pulled out of aenea as preparation for merging all grammars](https://github.com/dictation-toolbox/aenea-grammars)
+  - [A system to allow speech recognition via Dragonfly on one computer to send events to another](https://github.com/dictation-toolbox/aenea)
+- [Dragonfly Scripts](https://github.com/dictation-toolbox/dragonfly-scripts)
+- [Dragonfly](https://github.com/dictation-toolbox/dragonfly)
+- [aenea Grammars - Grammars pulled out of aenea as preparation for merging all grammars](https://github.com/dictation-toolbox/aenea-grammars)
 - [Custom commands for the Aenea voice control framework](https://github.com/tgrosinger/aenea-grammars)
-+ http://github.com/simianhacker/code-by-voice
+- http://github.com/simianhacker/code-by-voice
 - [Dragonfly Macros](https://github.com/davitenio/dragonfly-macros)
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
- - https://news.ycombinator.com/item?id=10103339
- - [An Introduction to the Kaldi Speech Recognition Toolkit](http://berlin.csie.ntnu.edu.tw/Courses/Speech%20Recognition/Lectures2013/SP2013F_Lecture14-Introduction%20to%20the%20Kaldi%20toolkit.pdf)
- - [Speech recognition with Kaldi lectures](https://sites.google.com/site/dpovey/kaldi-lectures)
- - https://www.slideshare.net/mobile/xanguera/kaldivoice-your-personal-speech-recognition-server-using-open-source-code
+  - https://news.ycombinator.com/item?id=10103339
+  - [An Introduction to the Kaldi Speech Recognition Toolkit](http://berlin.csie.ntnu.edu.tw/Courses/Speech%20Recognition/Lectures2013/SP2013F_Lecture14-Introduction%20to%20the%20Kaldi%20toolkit.pdf)
+- [Speech recognition with Kaldi lectures](https://sites.google.com/site/dpovey/kaldi-lectures)
+- https://www.slideshare.net/mobile/xanguera/kaldivoice-your-personal-speech-recognition-server-using-open-source-code
 
 ## Dragon Dictate
 
