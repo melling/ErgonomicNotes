@@ -37,6 +37,7 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
 
 ## Misc
 
+- [On Voice Coding - Dusty Phillips 20200215](https://dusty.phillips.codes/2020/02/15/on-voice-coding/)
 - [Speech Grammars in F#](https://blogs.msdn.microsoft.com/ashleyf/2013/09/19/speech-grammars-in-f/)
 - [Programming by Voice: Staying Productive without Harming Yourself](http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself) (extrahop.com) (2014-10-20)
     - [HN: Programming by Voice: Staying Productive Without Harming Yourself](http://news.ycombinator.com/item?id=8484847)
