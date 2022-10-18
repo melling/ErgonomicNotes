@@ -28,7 +28,7 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
   -  [VoiceCode: AceJump / EasyMotion mode](https://youtu.be/77zPOyMmMPQ)
 - [Thomas Ballinger - Terminal whispering - PyCon 2015](https://www.youtube.com/watch?v=WAitSilLDUA)
 
-### VimSeak
+### VimSpeak
 
 - (https://www.youtube.com/watch?v=TEBMlXRjhZY)[VimSpeak Demo]
 - https://github.com/AshleyF/VimSpeak
