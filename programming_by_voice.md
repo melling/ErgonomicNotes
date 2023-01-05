@@ -2,6 +2,7 @@
 
 Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Programming by Voice](programming_by_voice.md) | [Standing Desks](standing_desks.md) | [Blind Programming](blind_programming.md)
 
+- [Numen](https://numenvoice.com)
 - [Talon](https://talonvoice.com)
 - [Caster](https://caster.readthedocs.io/en/latest/)
   - https://github.com/synkarius/caster
@@ -28,7 +29,7 @@ Menu: [Ergonomic Keyboards](keyboards.md) | [Ergonomic Mice](mice.md) | [Program
   -  [VoiceCode: AceJump / EasyMotion mode](https://youtu.be/77zPOyMmMPQ)
 - [Thomas Ballinger - Terminal whispering - PyCon 2015](https://www.youtube.com/watch?v=WAitSilLDUA)
 
-### VimSeak
+### VimSpeak
 
 - (https://www.youtube.com/watch?v=TEBMlXRjhZY)[VimSpeak Demo]
 - https://github.com/AshleyF/VimSpeak
